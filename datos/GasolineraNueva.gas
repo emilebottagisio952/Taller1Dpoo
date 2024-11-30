@@ -1,0 +1,13 @@
+tipo:gasolina extra:15573:100.0
+tipo:premium:20000:100.0
+tipo:disel:10000:100.0
+tipo:gasolinacoriente:12000:12000.0
+surtidor:Carlos:gasolina extra:0.0:premium:0.0:disel:0.0:gasolinacoriente:0.0
+surtidor:Emile:gasolina extra:0.0:premium:0.0:disel:0.0:gasolinacoriente:0.0
+surtidor:sofia:gasolina extra:0.0:premium:0.0:disel:0.0:gasolinacoriente:0.0
+surtidor:Juan:gasolina extra:0.0:premium:0.0:disel:0.0:gasolinacoriente:0.0
+empleado:Emile:0
+empleado:sofia:0
+empleado:Juan:0
+empleado:thomas:0
+empleado:Carlos:0
